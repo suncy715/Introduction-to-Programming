@@ -22,20 +22,20 @@ int f(int x){
 			
 	
 	if(x==1){
-    printf("%d", x);
+		printf("%d", x);
 		return x;
 	}
 
 	
-  if(x%2!=0){
+  	if(x%2!=0){
 		printf("(");
-  }
-  else{
-  }
+  	}
+  	else{
+  	}
 
 	if(x%2==0){
-	  ans = x+f(x-1);
-    printf("+%d", x);
+		ans = x+f(x-1);
+    		printf("+%d", x);
 	}
 	else{
 		ans = x*f(x-1);

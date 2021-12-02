@@ -10,7 +10,7 @@ Reference: n/a
 
 Description: 
 ```javascript=
-Given an NxN two dimensional array M, you are asked to rotate M clockwise by45 degree.
+Given an NxN two dimensional array M, you are asked to rotate M clockwise by 45 degree.
 
 Sample input
 1 2 3
